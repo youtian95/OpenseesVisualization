@@ -10,7 +10,7 @@ Opensees model Visualization
   Matlab<br>
 
 * 使用<br>
-  将所有模型tcl文件拷贝到DisplayFiles文件夹下，将ExampleScript.m中InputFileName变量设置为入口tcl文件的文件名字，然后运行ExampleScript.m
+  将所有模型tcl文件拷贝到DisplayFiles文件夹下，将ExampleScript.m中InputFileName变量设置为入口tcl文件的文件名字，然后运行ExampleScript.m，在窗口输入任意字符并回车退出程序
 
 * E-mail：youtian95@qq.com
 
