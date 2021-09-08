@@ -15,4 +15,4 @@ Opensees model Visualization
 * E-mail：youtian95@qq.com
 
 * 截图<br>
-![image](https://github.com/youtian95/CollapseCapacityCurveFitting/blob/main/snapshot.png)
+![image](https://github.com/youtian95/OpenseesVisualization/blob/master/snapshot.png)
