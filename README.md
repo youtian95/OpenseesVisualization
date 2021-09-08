@@ -9,6 +9,7 @@ Opensees model Visualization
 ### 需要
 
  - Matlab
+ - tcl/tk
  
 ### 使用
 
